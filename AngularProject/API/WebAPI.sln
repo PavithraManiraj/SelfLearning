@@ -5,6 +5,23 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebApplication1\WebAPI.csproj", "{0EDA3234-511F-4E0A-AA43-6A83C699F4EE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Angular10", "Angular10", "{27F5D962-074A-4165-AF75-61DEDD8C2D35}"
+	ProjectSection(SolutionItems) = preProject
+		..\Angular10\.browserslistrc = ..\Angular10\.browserslistrc
+		..\Angular10\.editorconfig = ..\Angular10\.editorconfig
+		..\Angular10\.gitignore = ..\Angular10\.gitignore
+		..\Angular10\angular.json = ..\Angular10\angular.json
+		..\Angular10\karma.conf.js = ..\Angular10\karma.conf.js
+		..\Angular10\package-lock.json = ..\Angular10\package-lock.json
+		..\Angular10\package.json = ..\Angular10\package.json
+		..\Angular10\README.md = ..\Angular10\README.md
+		..\Angular10\tsconfig.app.json = ..\Angular10\tsconfig.app.json
+		..\Angular10\tsconfig.base.json = ..\Angular10\tsconfig.base.json
+		..\Angular10\tsconfig.json = ..\Angular10\tsconfig.json
+		..\Angular10\tsconfig.spec.json = ..\Angular10\tsconfig.spec.json
+		..\Angular10\tslint.json = ..\Angular10\tslint.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
